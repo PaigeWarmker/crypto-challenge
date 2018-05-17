@@ -1,2 +1,2 @@
 # crypto-challenge
-https://cryptopals.com/
+My solutions to the cryptopals crypto challenges at https://cryptopals.com/
